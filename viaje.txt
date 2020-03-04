@@ -1,6 +1,7 @@
 Lista de viaje
 -------------------
 - zapatos
+- camara
 
 
 Lista para picnic
